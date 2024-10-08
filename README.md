@@ -150,13 +150,14 @@ int main()
 
 ## Outputs :
 ### 1. *Factorial*
+![Screenshot 2024-10-08 220053](https://github.com/user-attachments/assets/880cf795-21aa-4bcb-bb9c-4b8a005b7b7f)
 
 ### 2. *Addition*
-
+![Screenshot 2024-10-08 220233](https://github.com/user-attachments/assets/b3a7233c-d5df-42f5-b708-adcb104c76de)
 ### 3. *Reverse Of A String*
 
 ### 4. *Reverse Of A Integer*
-
+![Screenshot 2024-10-08 220742](https://github.com/user-attachments/assets/f0d53dfe-dc36-4cfa-9450-4e1c82f71623)
 
 ## Conclusion :
 We effectively studied and implemented the idea of recursion in C++ in this experiment. Examples of recursion, which is the process by which a function calls itself to solve smaller sub-problems, included finding the factorial, creating Fibonacci sequences, and searching algorithms.
